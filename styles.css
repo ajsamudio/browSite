@@ -90,6 +90,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 30px;
     /* height: 100vh; */
 }
 
@@ -100,8 +101,8 @@ body {
     margin: 1%;
 }
 
-.img {
-    border-radius: 50px;
+.service-img {
+    border-radius: 50px !important;
     align-items: center;
     justify-content: center;
 }
