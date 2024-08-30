@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 23px;
     background-color: #d7f3ff; /* Light blue background color */
 }
 
@@ -83,7 +84,8 @@ body {
 }
 
 .service-offered {
-    font-family: Arial, sans-serif;
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 23px;
     background-color: #d7f3ff;
     display: flex;
     align-items: center;
@@ -98,7 +100,7 @@ body {
     margin: 1%;
 }
 
-.service-img {
+.img {
     border-radius: 50px;
     align-items: center;
     justify-content: center;
