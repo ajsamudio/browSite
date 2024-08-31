@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: "New Amsterdam", sans-serif;
     font-size: 23px;
-    background-color: #d7f3ff; /* Light blue background color */
+    background-color: #A7B89D;
 }
 
 .header {
@@ -66,9 +66,10 @@ body {
 }
 
 .container-service {
-    background-color: #d7f3ff;
-    width: 80%;
+    background-color: #A7B89D;
+    width: 100%;
     text-align: center;
+    border-radius: 30px;
 }
 
 .services-header {
@@ -86,7 +87,7 @@ body {
 .service-offered {
     font-family: "New Amsterdam", sans-serif;
     font-size: 23px;
-    background-color: #d7f3ff;
+    background-color: #A7B89D;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -114,7 +115,7 @@ body {
 
 .closer{
     display: flex;
-    background-color: #d7f3ff;
+    background-color: #A7B89D;
     padding: 15%;
     align-items: center;
 }
